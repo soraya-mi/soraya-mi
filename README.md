@@ -101,6 +101,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soraya-mi&show_icons=true&locale=en&layout=compact" alt="soraya-mi" /></p>
 <br/>
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=soraya-mi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
