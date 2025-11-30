@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Soraya Mehrabi</h1>
-<h3 align="center">A passionate Frontend Developer | Vue & React Enthusiast</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=gradient&text=Hi%20👋,%20I'm%20Soraya%20Mehrabi&fontAlign=50&reversal=true&textBg=false&animation=fadeIn&fontSize=50" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=F71A75&center=true&vCenter=true&width=500&lines=A+PASSIONATE+FRONTEND+DEVELOPER" alt="Typing SVG" /></a>
+
+<!-- <h3 align="center">A passionate Frontend Developer | Vue & React Enthusiast</h3>--> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soraya-mi&label=Profile%20views&color=0e75b6&style=flat" alt="soraya-mi" />
